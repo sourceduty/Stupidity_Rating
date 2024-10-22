@@ -13,6 +13,10 @@ In addition to humor, Stupidity Rating can access real-time information through 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 <br>
 [Vehicle Rating](https://github.com/sourceduty/Vehicle_Rating)
+<br>
+[Vehicle Roast](https://github.com/sourceduty/Vehicle_Roast)
+<br>
+[Software Roast](https://github.com/sourceduty/Software_Roast)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
