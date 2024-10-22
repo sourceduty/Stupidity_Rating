@@ -1,4 +1,4 @@
-![1](https://github.com/user-attachments/assets/e6adea6d-2d33-4586-8355-698ef60300dc)
+![Stupidity Rating](https://github.com/user-attachments/assets/a74f0bf0-43af-4631-bf34-b066e1326f8d)
 
 >  Rate stupidity using web searches and uploaded images.
 #
