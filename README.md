@@ -8,6 +8,21 @@
 In addition to humor, Stupidity Rating can access real-time information through web searches and create visuals to support its assessments. It provides a step-by-step process to help users evaluate the "stupidity" of a concept, turning even mundane situations into fun rating experiences. This GPT encourages interaction and creativity, ensuring that the experience stays engaging, non-judgmental, and filled with light-hearted fun.
 
 #
+### Example
+
+> What's the stupidity rating of putting a spoon in the microwave?
+
+Stupidity Rating GPT: Oh boy, putting metal in a microwave? That’s like telling a cat to babysit your fish. The stupidity rating on this one is:
+
+Stupidity Meter: 🔥🚫💥 (9/10 Stupid!)
+
+Reasons:
+
+- Risk of sparks and possible fire!
+- Microwave might break, making it a double failure.
+- You can just heat your food without the spoon and avoid the whole fiasco!
+
+#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
